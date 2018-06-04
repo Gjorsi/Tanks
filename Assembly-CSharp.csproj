@@ -109,6 +109,7 @@
      <Compile Include="Assets\Scripts\Shell\ShellExplosion.cs" />
      <Compile Include="Assets\Scripts\Tank\TankHealth.cs" />
      <Compile Include="Assets\Scripts\Tank\TankMovement.cs" />
+     <Compile Include="Assets\Scripts\Tank\TankReload.cs" />
      <Compile Include="Assets\Scripts\Tank\TankShooting.cs" />
      <Compile Include="Assets\Scripts\UI\UIDirectionControl.cs" />
      <Compile Include="Assets\TutorialInfo\Scripts\Readme.cs" />
